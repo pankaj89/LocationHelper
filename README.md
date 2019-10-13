@@ -26,7 +26,7 @@ allprojects {
 
 // App level build.gradle
 dependencies {
-    implementation 'com.github.pankaj89:MasterExoPlayer:1.0'
+    implementation 'com.github.pankaj89:LocationHelper:1.0'
 }
 	
 ```
