@@ -1,4 +1,4 @@
-![alt text](https://github.com/pankaj89/LocationHelper/blob/master/location_helper_banner.svg)
+![alt text](https://github.com/pankaj89/LocationHelper/blob/master/location_helper_banner1.svg)
 
 # LocationHelper
 
